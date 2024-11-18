@@ -1,4 +1,4 @@
-# Hey! Bienvenido al github de Di Leo Ezequiel.
+# Hey! Bienvenido al github de Ezequiel Di Leo.
 
 ![BANNER code](bannerMio.jpg)
 
