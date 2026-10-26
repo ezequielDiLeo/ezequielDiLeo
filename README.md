@@ -156,11 +156,11 @@ Explore my portfolio to discover my projects, technologies and approach to front
 
 ## 📊 GitHub Analytics
 
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ezequielDiLeo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ezequielDiLeo&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub Statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielDiLeo&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=6" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ezequielDiLeo&bg_color=0D1117&color=C9D1D9&line=00D4FF&point=7C3AED&hide_border=true" alt="GitHub Contribution Activity" />
-</p>
